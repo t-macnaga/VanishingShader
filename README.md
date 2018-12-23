@@ -1,0 +1,2 @@
+# VanishingShader
+Unity Vanishing Shader
