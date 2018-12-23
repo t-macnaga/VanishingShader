@@ -5,7 +5,7 @@
         _MainTex ("Source", 2D) = "white" {}
         _StrengthX("StrengthX",Float) = 0
         _StrengthY("StrengthY",Float) = 0
-        _StrengthY("Alpha",Range(0,1)) = 1
+        _Alpha("Alpha",Range(0,1)) = 1
     }
 
     SubShader
